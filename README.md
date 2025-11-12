@@ -120,6 +120,6 @@ This project is open-source and available under the MIT License.
 ---
 
 💫 Developed with collaboration and dedication by:
-Harshal, Rachana, and Vaishak
+Harshal, Rachana, and Vaishakh
 
 
